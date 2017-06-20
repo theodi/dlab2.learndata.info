@@ -1,0 +1,4552 @@
+[
+  {
+    "_id": "59301d2ed084d5167a04f0f3",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0b2",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59301d2dd084d5167a04f0e0",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0a9",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8da743e63307c09ebe6186924eb2f05870283ad2.jpg",
+      "small": "course/en/assets/8da743e63307c09ebe6186924eb2f05870283ad2.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59359a20d084d5167a04f7ab",
+    "_layout": "left",
+    "_parentId": "59359a10d084d5167a04f7aa",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to visualise data?",
+    "title": "Are you ready to visualise data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2dd084d5167a04f0d4",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0ca",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2dd084d5167a04f0e3",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0b8",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0fa",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0b3",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f111",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0b0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to organise your data correctly?",
+    "title": "Are you ready to organise your data correctly?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2dd084d5167a04f0d5",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0aa",
+    "_type": "component",
+    "body": "<p>A pivot table is a powerful&nbsp;data summary tool found in all spreadsheet tools.&nbsp;Among other functions, a pivot table can automatically sort, count, total or give the average of the data stored in one table or spreadsheet, displaying the results in a second table.</p>\n\n<p>Pivot tables also give you the ability to &quot;Pivot&quot; or rotate the data,&nbsp;changing the column and row labels used from the original dataset.&nbsp;</p>\n\n<p>The example video demonstrates how to create a simple pivot table that gives the total number of health facilities per star rating. Here, the star ratings are used as the row labels and we have one column of data that represents the total count of facilities for each rating.&nbsp;</p>\n\n<p>Try following this through with your own dataset.&nbsp;</p>\n",
+    "displayTitle": "Pivot tables",
+    "title": "Pivot tables",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2dd084d5167a04f0d6",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0b1",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59301d2dd084d5167a04f0d7",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0b1",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to analyse data?",
+    "title": "Are you ready to analyse data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2dd084d5167a04f0d8",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0a6",
+    "_type": "component",
+    "body": "<p>In this module we have seen how simple it can be to process data once it is organised in the correct structure.&nbsp;</p>\n\n<p>If you haven&#39;t already, try applying what you have learnt to the <a href=\"https://drive.google.com/open?id=0B1VBoooQ3X5jT0RSOVk3SnJuWlU\" target=\"_blank\">course spreadsheet</a>. You can then submit this to your course leader who can check your work and help if you get stuck.&nbsp;</p>\n\n<p>In the last module, we shall introduce a technique for creating a fully interactive web based dashboard, giving you the ability&nbsp;to filter and slice the data&nbsp;any way you like.</p>\n",
+    "displayTitle": "Analysing data",
+    "title": "Analysing data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2dd084d5167a04f0d9",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0d0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2dd084d5167a04f0da",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0b4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8da743e63307c09ebe6186924eb2f05870283ad2.jpg",
+      "small": "course/en/assets/8da743e63307c09ebe6186924eb2f05870283ad2.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59301d2dd084d5167a04f0db",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0b4",
+    "_type": "component",
+    "body": "<p>Column titles are essential to ensuring that data can be collected and used correctly.</p>\n\n<p>Keep your column titles clear,&nbsp;concise and relevant to the dataset. Avoid using acronyms or other abbreviations, as they could be confusing.</p>\n\n<p>If you are collecting numbers in your data, don&#39;t forget to define the units and be&nbsp;as clear as possible in the description. For example:&nbsp;&quot;Cost ($millions)&quot; would be&nbsp;a clearer&nbsp;title than &quot;Cost&quot; or&nbsp;&quot;Cost ($m)&quot;.</p>\n\n<p>Ensure your column titles are only contained in a single row &ndash;&nbsp;preferably the first row in the spreadsheet, starting at A,1.</p>\n\n<p>&nbsp;</p>\n",
+    "displayTitle": "Perfect column titles",
+    "title": "Perfect column titles",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2dd084d5167a04f0dc",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0a8",
+    "_type": "component",
+    "body": "<p>The freeze function is useful when viewing&nbsp;and managing&nbsp;large datasets.&nbsp;It &#39;freezes&#39; the column titles at the top of the page, so you can always&nbsp;check your value against the associated&nbsp;row and column, without scrolling back up to the top.&nbsp;</p>\n\n<p>This function can be&nbsp;accessed from the &#39;View&#39; menu of most spreadsheet applications.&nbsp;</p>\n",
+    "displayTitle": "Header rows and the freeze function",
+    "title": "Header rows and the freeze function",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2dd084d5167a04f0dd",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0b0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59301d2dd084d5167a04f0de",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0b6",
+    "_type": "component",
+    "body": "<p>What is the maximum number of tables that you should have on each sheet of a spreadsheet?</p>\n\n<p>Hint: The number of tables per sheet should equal&nbsp;the number of records per row.</p>\n",
+    "displayTitle": "How many tables per sheet?",
+    "title": "How many tables per sheet?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one option and then click submit",
+    "_items": [
+      {
+        "text": "One",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Two",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "As many as you like",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!</p>\n\n<p>You should only have one table per sheet and one record per row. This will make processing and filtering the data easier. Don&#39;t use your spreadsheet to make data&nbsp;look pretty at time of collection, use it to collect accurate data.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>You should only have one table per sheet and one record per row. This will make processing and filtering the data easier. Don&#39;t use your spreadsheet to make data&nbsp;look pretty at time of collection, use it to collect accurate data.&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59301d2dd084d5167a04f0df",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0b7",
+    "_type": "component",
+    "body": "<p>Which feature of a spreadsheet application allows you to keep the column titles visible at all times?</p>\n",
+    "displayTitle": "Keeping column titles in view",
+    "title": "Keeping column titles in view",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one option and click submit",
+    "_items": [
+      {
+        "text": "Freeze rows",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Replicate header row",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Use multiple sheets",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!</p>\n\n<p>The Freeze function allows you to keep certain rows visible even when you scroll through 10,000 rows.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>The Freeze function allows you to keep certain rows visible even when you scroll through 10,000 rows.&nbsp;&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59301d2dd084d5167a04f0e1",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0a9",
+    "_type": "component",
+    "body": "<p>Which of the column titles below would be the&nbsp;most appropriate for the name of a healthcare facility?&nbsp;</p>\n",
+    "displayTitle": "Which is the best column title?",
+    "title": "Which is the best column title?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one answer and click submit",
+    "_items": [
+      {
+        "text": "HFN",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Name",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Facility name",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!</p>\n\n<p>Be as descriptive&nbsp;as you can with your column titles. <em>Facility name</em> is better than <em>N</em><em>ame</em>&nbsp;as it is specific and clear. You could also expand the title further to <em>Heath care facility name</em>, but if&nbsp;this is&nbsp;clear from the title of the dataset, it may not be necessary.</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>Be as descriptive&nbsp;as you can with your column titles. <em>Facility name</em> is better than <em>N</em><em>ame</em>&nbsp;as it is specific and clear. You could also expand the title further to <em>Heath care facility name</em>, but if&nbsp;this is&nbsp;clear from the title of the dataset, it may not be necessary.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59301d2dd084d5167a04f0e2",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0ad",
+    "_type": "component",
+    "body": "<p>Which data type is best to represent the rating of a facility on a scale of 0-5 stars?</p>\n",
+    "displayTitle": "Which data type?",
+    "title": "Which data type?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Pick one answer and click submit",
+    "_items": [
+      {
+        "text": "Numbers (e.g. 1)",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "String/Text (e.g. \"1 star\")",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Stars (e.g. ★)",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!</p>\n\n<p>When recording data that is on a scale, it is best to use numbers which can be easily sorted. Using text such as <em>1 star</em>&nbsp;limits how the data can be used. Avoid custom datatypes that cannot be&nbsp;not easily sorted (e.g.&nbsp;★★★).&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>When recording data that is on a scale, it is best to use numbers which can be easily sorted. Using text such as <em>1 star</em>&nbsp;limits how the data can be used. Avoid custom datatypes that cannot be&nbsp;not easily sorted&nbsp;(e.g.&nbsp;★★★).&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59301d2dd084d5167a04f0e4",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0b8",
+    "_type": "component",
+    "body": "<p>You can test what you have learned in this module&nbsp;by correcting a&nbsp;messy spreadsheet.&nbsp;</p>\n\n<p><a href=\"https://drive.google.com/open?id=0B1VBoooQ3X5jeEQycHo4OG4tclE\" target=\"_blank\">Download and open this spreadsheet</a> in your favourite spreadsheet application. Then&nbsp;see if you can fix the errors &nbsp;&ndash;&nbsp;relating to structure, content and&nbsp;layout &ndash; that you learnt about in this module.&nbsp;The spreadsheet contains two sheets of data from the same health facility star-ratings dataset,&nbsp;from different regions in Tanzania.</p>\n\n<p>In order to track your changes on the spreadsheet, you may want to open a new tab or make a new spreadsheet. Create&nbsp;new columns,&nbsp;then add the records from the existing datasets into your new spreadsheet.&nbsp;</p>\n\n<p>Once you are finished, submit the finished spreadsheet over email to your course coordinator, who will give you feedback.&nbsp;You can receive additional credit&nbsp;for the use of advanced functions, like data verification.&nbsp;</p>\n",
+    "displayTitle": "Test your spreadsheet skills",
+    "title": "Test your spreadsheet skills",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0e5",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0a7",
+    "_type": "component",
+    "body": "<p>Once your data is nicely organised, we can now begin to filter and analyse the data.</p>\n\n<p>In this module we will learn how to:</p>\n\n<ul class=\"ticks\">\n\t<li>Sort and filter&nbsp;data in a spreadsheet</li>\n\t<li>Apply&nbsp;formula to generate simple statistics</li>\n\t<li>Create a number of pivot tables</li>\n\t<li>Create a number of summary graphs</li>\n</ul>\n\n<p>To prepare you for this exercise you will need <a href=\"https://drive.google.com/open?id=0B1VBoooQ3X5jT0RSOVk3SnJuWlU\" target=\"_blank\">this spreadsheet</a>. Note that it has two sheets;&nbsp;the first tab holds the data,&nbsp;and the second tab called &#39;Statistics&#39; will&nbsp;be used when we look at formula.&nbsp;</p>\n",
+    "displayTitle": "Analysing data",
+    "title": "Analysing data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0e6",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0cd",
+    "_type": "component",
+    "body": "<p>Sorting and filtering data helps you see trends in the data.&nbsp;</p>\n\n<p>Before applying any sort or filter operations, ensure that you have frozen your header rows.</p>\n\n<p>Use the video on the right to help guide you.</p>\n",
+    "displayTitle": "Sorting and filtering data",
+    "title": "Sorting and filtering data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Sorting data",
+        "body": "<p>To sort a column, simply select the column header you want to sort the data by and then select&nbsp;the sort option,&nbsp;normally available from the Data menu or panel in most spreadsheet applications.</p>\n\n<p>You can then choose how you want to sort the data.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Filtering data",
+        "body": "<p>Filters allow you to limit the data that you see.</p>\n\n<p>To apply a filter,&nbsp;select any cell in your header row and click the filter icon. This is normally available from the same place that the sort function is found.</p>\n\n<p>Once selected, you will notice that your header row gains a dropdown option. Selecting or unselecting the data shown in this dropdown&nbsp;will allow you to both sort and filter the values in a row. This will hide the data, but not get rid of it.&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0e7",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0cd",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/e8665f7df3eb3bb19b9c8bcba1bacf34892e333f.mp4",
+      "ogv": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/4833f117f2b3d5f33f3f11c1dee9ed94a55acb4b.png",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": true,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0e8",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0b9",
+    "_type": "component",
+    "body": "<p>Spreadsheet applications have powerful formula functions to help you analyse the data. Here we are going to look at few of the simple formulas.&nbsp;</p>\n\n<p>This is where we will use the separate sheet in our spreadsheet for statistics. This means we will avoid&nbsp;including unnecessary tables in with our dataset or limiting the ability to add additional rows. All the formula used means that you can still add data to the original sheet and the statistics will automatically update in the second sheet.&nbsp;</p>\n\n<p>Again, you can use the video to help guide you.</p>\n",
+    "displayTitle": "Formula and statistics",
+    "title": "Formula and statistics",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Averages",
+        "body": "<p>Calculating averages is a common operation with any numeric data. But remember, there is more than one type of average!</p>\n\n<p>In the statistics sheet of the spreadsheet, we want to find out the&nbsp;mean and mode star ratings. These can be added by using the <strong>AVERAGE()</strong> and <strong>MODE()</strong> formula on the star rating column.&nbsp;</p>\n\n<p>To calculate the <strong>AVERAGE()</strong>&nbsp;star rating, type the following formula&nbsp;into the correct cell in the statistics sheet and then follow&nbsp;the instruction in italics.&nbsp;</p>\n\n<p><strong>=AVERAGE(&nbsp;</strong><em>click Star Rating column in data sheet&nbsp;</em><strong>)</strong></p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Lowest and highest values",
+        "body": "<p>To find out what the lowest and highest star ratings are, you can use the <strong>MIN()</strong> and <strong>MAX()</strong> formula.&nbsp;</p>\n\n<p>e.g.&nbsp;</p>\n\n<p><strong>=MAX(&nbsp;</strong><em>click Star Rating column in data sheet&nbsp;</em><strong>)</strong></p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Count the number of items",
+        "body": "<p>The <strong>COUNT() </strong>and <strong>COUNTA() </strong>functions help to count how many items exist&nbsp;in a large sheet.&nbsp;</p>\n\n<p><strong>COUNT()</strong> and <strong>COUNTA()</strong>&nbsp;are two very similar functions. The difference between them is that&nbsp;<strong>COUNT()</strong>&nbsp;only&nbsp;counts&nbsp;cells containing numbers but&nbsp;<strong>COUNTA()</strong>&nbsp;counts&nbsp;all cells that aren&#39;t empty, meaning it will also count cells with text or other characters.</p>\n\n<p>You can obtain the count of star rated facilities using the following formula.&nbsp;</p>\n\n<p><strong>=COUNT(&nbsp;</strong><em>click Star Rating column in data sheet&nbsp;</em><strong>)</strong></p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0e9",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0b9",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/da7174fb6b713a99418e20ed9293bd6779ee1c60.mp4",
+      "ogv": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/f4d2e10e93af5fd664243e179da73431dffa24f9.png",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": true,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0ea",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0aa",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/12f8f77a8589db3875d48bfe8db3e59be30e2982.mp4",
+      "ogv": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/6abc8c7db30233d4ee4ec0dc22125a9fd0219ccd.png",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": true,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0eb",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0ba",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/3f625479e5274063900e516b0d2618d0c4d45239.mp4",
+      "ogv": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/42f0fafb85c3e9d3617a5fce8695c56466b78f6f.png",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": true,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0ec",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0ba",
+    "_type": "component",
+    "body": "<p>Combining all aspects of this module enables you to create a simple data analysis tool for our spreadsheet of data.</p>\n\n<p>Follow the steps below to create your own data analysis interface for health care facilities:</p>\n",
+    "displayTitle": "Data analysis",
+    "title": "Data analysis",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Advanced pivot table",
+        "body": "<p>The first stage is to create a new pivot data from our complete dataset. In this case we are going to look at the star rating of heath care facilities per region.</p>\n\n<p>This time the&nbsp;region&nbsp;will be the&nbsp;row&nbsp;labels. The&nbsp;column&nbsp;headings will represent the&nbsp;star ratings&nbsp;and the values will be the total count of facilities that achieve that&nbsp;star rating.</p>\n\n<p>In order to make filtering and analysing easier, it is recommended that only a&nbsp;total row for column totals be added.&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Create a plot or graph",
+        "body": "<p>The next stage is&nbsp;creating&nbsp;a graph of the data in our pivot table.&nbsp;</p>\n\n<p>Simply highlight the data, including row and column titles, and click the charting tool.&nbsp;We want to add a clustered column chart.&nbsp;</p>\n\n<p>Feel free to name and style your chart to look nice. Try to not have the chart on top of&nbsp;the data.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Slicing your data",
+        "body": "<p>The last stage involves adding a&nbsp;slicer&nbsp;(or&nbsp;filter) to the pivot table. This tool can be found in the pivot table options (or toolbar).&nbsp;</p>\n\n<p>Add a slicer to your dataset based upon healthcare facility type. This will now allow you to filter the pivot table by type. As the pivot table updates, so will the graph that you made at the previous stage.&nbsp;&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0ed",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0a6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0ee",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0bb",
+    "_type": "component",
+    "body": "<p>You have a dataset containing the grades of students attending every school in the country in a single sheet. Your dataset is over 100,000 rows in length.&nbsp;</p>\n\n<p>If you want to look at only the results from a single school, what should you do?</p>\n",
+    "displayTitle": "Exploring large datasets",
+    "title": "Exploring large datasets",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one option and click 'submit'",
+    "_items": [
+      {
+        "text": "Manually create a new sheet with this data in",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Sort the dataset and scroll to find the school",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Use a filter to show only data for that school",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Change the way the data is collected such that the data about each school is in a separate sheet",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!</p>\n\n<p>With all the data in one sheet, you can use filters to quickly look at any custom selection of the data. While it might seem&nbsp;logical to split data of this size into several sheets, the instant ability to analyse all the data is lost.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>With all the data in one sheet, you can use filters to quickly look at any custom selection of the data. While it might seem&nbsp;logical to split data of this size into several sheets, the instant ability to analyse all the data is lost.&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0ef",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0d1",
+    "_type": "component",
+    "body": "<p>In your spreadsheet of school marks you want to find the highest mark achieved by any student.&nbsp;</p>\n\n<p>Which formula do you require?</p>\n",
+    "displayTitle": "Fast formula",
+    "title": "Fast formula",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one answer and then click 'submit'",
+    "_items": [
+      {
+        "text": "=MAX()",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "=AVERAGE()",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "=HIGHEST()",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right! To quickly find the highest mark you need the =MAX() formula.</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?&nbsp;To quickly find the highest mark you need the =MAX() formula.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0f0",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0a5",
+    "_type": "component",
+    "body": "<p>Which spreadsheet tool is essential for generating powerful summary statistics of a raw dataset?&nbsp;</p>\n\n<p>The same tool can also rotate the data to reveal new patterns in the data.&nbsp;</p>\n",
+    "displayTitle": "Data analysis",
+    "title": "Data analysis",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one option and click 'submit'",
+    "_items": [
+      {
+        "text": "Pivot tables",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Charts and graphs",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Formulas",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!</p>\n\n<p>Pivot tables are&nbsp;a powerful&nbsp;data summary.&nbsp;Among other functions, a pivot table can automatically sort, count, total or give the average of the data stored in one table or spreadsheet. The results are&nbsp;displayed&nbsp;in a second table.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?&nbsp;</p>\n\n<p>Pivot tables are&nbsp;a powerful&nbsp;data summary.&nbsp;Among other functions, a pivot table can automatically sort, count, total or give the average of the data stored in one table or spreadsheet. The results are&nbsp;displayed&nbsp;in a second table.&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0f1",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0ca",
+    "_type": "component",
+    "body": "<p>One of the biggest challenges that people face when working with any data is&nbsp;errors. Errors can be the result of human mistakes&nbsp;like mistyping or incorrect abbreviations.&nbsp;Errors can also creep into datasets when&nbsp;the data changes after first publication.</p>\n\n<p>Errors in data, as in any human activity, are unavoidable. However, there are a couple of techniques that can help reduce their number dramatically.&nbsp;</p>\n\n<p>Data validation tools can be used at the point of collection to ensure that only&nbsp;valid data is entered. However, if&nbsp;the validator is changed from year to year, then it&nbsp;would be better to clean and align the data before use.&nbsp;</p>\n\n<p>This module introduces the following key topics:</p>\n\n<ul class=\"ticks\">\n\t<li>Validating data on collection</li>\n\t<li>Cleaning data post-collection</li>\n</ul>\n",
+    "displayTitle": "Validating and cleaning data",
+    "title": "Validating and cleaning data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0f2",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0b2",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Validating data",
+    "title": "Validating data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0f4",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0ae",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Cleaning data",
+    "title": "Cleaning data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0f5",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0ae",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
+      "small": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0f6",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0ce",
+    "_type": "component",
+    "body": "<p>Knowing that data is clean gives you have a reliable starting point when working with it.</p>\n\n<p>Clean data is data that is consistent, free from duplication and ready for machine consumption.</p>\n\n<p>If data is clean, it is easier to combine it with different datasets and gain deeper insights.</p>\n",
+    "displayTitle": "Revealing the value: what do we mean by clean data?",
+    "title": "Revealing the value: what do we mean by clean data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0f7",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0c0",
+    "_type": "component",
+    "body": "<p>There are a number of common errors in data that you should look out for in any dataset that&nbsp;you are working with.</p>\n",
+    "displayTitle": "Common errors in data",
+    "title": "Common errors in data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the headings to explore further.",
+    "_items": [
+      {
+        "title": "Wrong date formats",
+        "body": "<p>Dates can be written in inconsistent ways. Mixed date formats are sometimes simple to spot:<br />\n<br />\n8-sep-2013 vs 8/9/2013<br />\n<br />\nand sometimes less obvious:<br />\n<br />\n8/9/2013 vs 9/8/2013.<br />\n<br />\nAnother challenge is that applications&nbsp;like Excel&nbsp;will &lsquo;guess&rsquo; the format when a dataset is opened, which can hide how dates are actually written in the file.</p>\n\n<p>The most common error is the mixed use of American (MM/DD/YYYY) and European (DD/MM/YYYY) formats.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Multiple representations",
+        "body": "<p>People often try to save time when entering data by abbreviating terms. If these abbreviations are not consistent, it can cause errors in the dataset.</p>\n\n<p>Differences in capitalisation, spacing and genders of adjectives can all cause errors.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Duplicate records",
+        "body": "<p>A duplicate record is where the same piece of data has been entered more than once. Duplicate records often occur when datasets have been combined or because it was not known there was already an entry.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Redundant data",
+        "body": "<p>Redundant data is anything that is not relevant to your work with the dataset. Often a dataset has been created for a specific purpose which requires details you may not need.</p>\n\n<p>Common occurrences of redundant data include rows that represent total amounts.</p>\n\n<p>Other times columns of data have been combined or replicated in order to assist human readability.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Mixed numerical scales",
+        "body": "<p>Numerical values in datasets often use different scales to make it easier for&nbsp;users&nbsp;to read. For example, in a budget dataset,1,200,000 might be written as&nbsp;1.2m whereas the figure&nbsp;800,000 might&nbsp;still be&nbsp;written out in full. Machines will read the larger figure as 1.2, and thereby present the data incorrectly.&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Mixed ranges",
+        "body": "<p>Data is sometimes measured in ranges, such as age or salary range. In order for a machine to understand these ranges it is important to separate the high and low values.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Spelling errors",
+        "body": "<p>Spelling errors are often difficult to identify in tabular data.</p>\n\n<p>Don&rsquo;t forget to run your data through a spell-checker to catch spelling errors.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0f8",
+    "_layout": "full",
+    "_parentId": "59301d2dd084d5167a04f0c1",
+    "_type": "component",
+    "body": "<p>The video below takes you through a few of the cleaning operations in Open Refine as applied to the Health Facilities dataset. More advanced video tutorials are&nbsp;available on the <a href=\"http://openrefine.org\">Open Refine website</a>.</p>\n",
+    "displayTitle": "Practical cleaning in Open Refine",
+    "title": "Practical cleaning in Open Refine",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/7d1df1412d8e5a8468cbe4114cb7c26eb4b03242.mp4",
+      "ogv": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/1f429c0e40339fec968e0ad538b97b3306fb9718.png",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0f9",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0b3",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to validate and clean data?",
+    "title": "Are you ready to validate and clean data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0fb",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0c2",
+    "_type": "component",
+    "body": "<p>Which of the following spreadsheet functions ensures that&nbsp;data that has been entered by users&nbsp;is correct?</p>\n",
+    "displayTitle": "Data types and validation",
+    "title": "Data types and validation",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one answer and click submit",
+    "_items": [
+      {
+        "text": "Cell formats",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Data validation",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Filtering",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Sorting",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right! Data validation ensures that any new data that a user enters is acceptable according to the validation rules. When setting up validation rules, ensure you also provide appropriate instructions and error messages.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?&nbsp;Data validation ensures that any new data that a user enters is acceptable according to the validation rules. When setting up validation rules, ensure you also provide appropriate instructions and error messages.&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0fc",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0d2",
+    "_type": "component",
+    "body": "<p>The following rule has been set up for data validation:</p>\n\n<p><em>&quot;Allow&nbsp;<strong>whole numbers</strong>&nbsp;between&nbsp;<strong>1&nbsp;</strong>and&nbsp;<strong>10 </strong>(inclusive).&quot;</em></p>\n\n<p>Select the values from the list below that are&nbsp;<strong>correct</strong>&nbsp;by this validation rule. There may be more than one correct answer.</p>\n",
+    "displayTitle": "Data validation",
+    "title": "Data validation",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select the valid values and click submit.",
+    "_items": [
+      {
+        "text": "4",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "10",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "3.14",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "5-stars",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "three",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!&nbsp;</p>\n\n<p>Only the numbers 1,2,3,4,5,6,7,8,9,10 are accepted by this rule. The text &quot;three&quot; is not valid, neither is anything else that contains text. Finally 3.14 is not a whole number.</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>Only the numbers 1,2,3,4,5,6,7,8,9,10 are accepted by this rule. The text &quot;three&quot; is not valid, neither is anything else that contains text. Finally 3.14 is not a whole number.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0fd",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0c3",
+    "_type": "component",
+    "body": "<p>Which of the following are errors in data that require cleaning?&nbsp;</p>\n",
+    "displayTitle": "Recognising errors",
+    "title": "Recognising errors",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose three answers and click 'Submit'",
+    "_items": [
+      {
+        "text": "Multiple representations",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Lack of licence",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Redundant data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Lack of granularity",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Mixed numerical scales",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "correct": "<p>Thats right!</p>\n\n<p>Mixed use of scales, redundant data and multiple representations of the same data are just some of the errors that need to be fixed in unclean data. While the granularity and lack of licence are problems in data management and use, they are not related to data cleanliness.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>Mixed use of scales, redundant data and multiple representations of the same data are just some of the errors that need to be fixed in unclean data. While the granularity and lack of licence are problems in data management and use, they are not related to data cleanliness.&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0fe",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0af",
+    "_type": "component",
+    "body": "<p>Which cleaning method will help you to fix the errors shown in the dataset in the graphic?</p>\n",
+    "displayTitle": "Cleaning data",
+    "title": "Cleaning data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one answer and then click 'Submit'",
+    "_items": [
+      {
+        "text": "Clustering",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Duplicate records",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Spelling errors",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Date formatting",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!&nbsp;</p>\n\n<p>Clustering is a powerful cleaning aid that looks for similarities in data and recommends values that can be merged together. Clustering will help you fix errors in spelling, abbreviations&nbsp;and grammatical differences.</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>Clustering is a powerful cleaning aid that looks for similarities in data and recommends values that can be merged together. Clustering will help you fix errors in spelling, abbreviations&nbsp;and grammatical differences.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f0ff",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0af",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4e22b4c833d83cda25d671bdeaee86e2572cbe0f.png",
+      "small": "course/en/assets/4e22b4c833d83cda25d671bdeaee86e2572cbe0f.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f100",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0c4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f101",
+    "_layout": "full",
+    "_parentId": "59301d2dd084d5167a04f0cb",
+    "_type": "component",
+    "body": "<p>Adding cell formats can help to&nbsp;display data consistently, however it will not validate data entry. Using a combination of cell formats and data input validation is the simplest way to check you are collecting a clean dataset.&nbsp;</p>\n\n<p>The majority of spreadsheet applications contain validation functions. These functions allow you to set up rules for what values can be entered in a cell. There are normally a variety of sample rules &ndash;&nbsp;such as for dates and number ranges &ndash;&nbsp;but you can also set up a list of limited values that can be selected from.&nbsp;</p>\n\n<p>When setting up validation, don&#39;t forget to give the user a useful messages that will appear when they go&nbsp;to enter a value and when an invalid value is found.&nbsp;</p>\n\n<p>If you are applying validation rules to existing data then you can also use the<em> circle&nbsp;invalid values</em> function to find those that are already invalid. It is worth noting that Excel can only highlight a certain number, so&nbsp;you should consider using cleaning tools to tidy up existing data (see more on cleaning tools in the following section).&nbsp;</p>\n",
+    "displayTitle": "Validating data",
+    "title": "Validating data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/c99d21bd3f6103c23df76818f1026161bf9152b0.mp4",
+      "ogv": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/2f7c61c3bd4847e9c501323ae89ffadc3504cc62.png",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f102",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0be",
+    "_type": "component",
+    "body": "<p>The more widely data is shared, the greater the potential impact. In this module, we look at how to publish open data that anyone can&nbsp;<strong>access</strong>,&nbsp;<strong>use</strong>, and&nbsp;<strong>share</strong>.&nbsp;&nbsp;</p>\n\n<p>This module looks&nbsp;at the following key areas:</p>\n\n<ul class=\"ticks\">\n\t<li>Why, what and where to publish</li>\n\t<li>Data publication formats</li>\n\t<li>The minimal publication checklist</li>\n\t<li>Certifying high quality published open data</li>\n</ul>\n",
+    "displayTitle": "Publishing your data",
+    "title": "Publishing your data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f103",
+    "_layout": "full",
+    "_parentId": "59301d2dd084d5167a04f0cf",
+    "_type": "component",
+    "body": "<p>Publishers should consider the following questions.&nbsp;</p>",
+    "displayTitle": "Publishing open data: Why? What? Where?",
+    "title": "Publishing open data: Why? What? Where?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Explore more by clicking the left and right arrows",
+    "mobileInstruction": "Explore more by expanding the sections below",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Why publish?",
+        "body": "<p>Publishing data can help engage a community of volunteer&nbsp;analysts&nbsp;whose insights&nbsp;can help produce valuable platforms and products which&nbsp;inform decision making.</p>\n\n<p>For example, publishing education data gives people the ability to make more informed decisions about schools for their children, and helps government understand where investment is needed. Platforms like&nbsp;<a href=\"http://findmyschool.co.ke/\">Find My School</a>&nbsp;and <a href=\"https://developmentseed.org/tanzania-bank/open/\">Development Seed</a>&nbsp;show how impact from this data can be created.&nbsp;</p>\n\n<p>Publishing health data can help civilians&nbsp;easily navigate the health system and help government&nbsp;find areas for improvement, as has been done by <a href=\"http://health.saharareporters.com/\">Sahara Reporters</a> and <a href=\"http://health.the-star.co.ke/\">The Star</a>.&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/bc405547ea32356032d490290a510a41c2455047.jpg",
+          "alt": ""
+        },
+        "strapline": "Why publish?"
+      },
+      {
+        "title": "What data can be published?",
+        "body": "<p>Before&nbsp;publishing data, the publisher needs to check that it can be legally published.</p><p>There are a number of key factors that may prevent data publication.&nbsp;This includes:</p><ul><li>not being the data owner (copyright holder)</li><li>the data you own contains&nbsp;others&#39; copyrighted data (e.g. location data from google maps)</li><li>data that contains&nbsp;personally identifiable information</li><li>classified data.</li></ul><p>There may also be other local laws and mandates that enforce either the publication or protection of certain types of data. If unsure, it is always best to seek the advice of an appropriate legal representative.</p>",
+        "_graphic": {
+          "src": "course/en/assets/55fdaceae3e61bfad0b68be0efcf8b4e312e1342.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/mjtmail/3008566512\" target=\"_blank\">mjtmail (tiggy)</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "What can you publish?"
+      },
+      {
+        "title": "Where can data be published?",
+        "body": "<p>If the website&nbsp;allows,&nbsp;publishers should try to publish on their&nbsp;own&nbsp;website or data portal. This helps to build&nbsp;trust between the organisation and the user or customer.&nbsp;</p><p>However, be aware that&nbsp;users may not come to the publisher&nbsp;directly for the data, so it is advisable to also publish the data on other platforms to ensure wide use and reuse.&nbsp;There are no restrictions to the number of places an open dataset can exist.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/14fad81b7ca38acf03071734b8362c47fd3d3997.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366\" target=\"_blank\">Oleksiy Mark</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Where do you publish?"
+      }
+    ]
+  },
+  {
+    "_id": "59301d2ed084d5167a04f104",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0c5",
+    "_type": "component",
+    "body": "<p>Choosing the right format for publishing open data is key to maximising&nbsp;re-use. There is no single format that will suit all data and users.</p>\n\n<p>&nbsp;</p>\n",
+    "displayTitle": "Data publication formats",
+    "title": "Data publication formats",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click to explore each requirement",
+    "_items": [
+      {
+        "title": "A raw data format",
+        "body": "<p>The first requirement when publishing data is to publish raw data. Publishing summary statistics and other higher level information restricts the potential re-usability&nbsp;of the data.&nbsp;</p>\n\n<p>Which format do you use to manipulate and analyse the raw data in? (excel? cad? sql?)</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": "A raw data format"
+      },
+      {
+        "title": "Instantly reusable format",
+        "body": "<p>Which format would users be able to instantly open, manipulate and use?</p>\n\n<p>There are many applications that can open spreadsheet files for instant use but less for other formats.&nbsp;</p>\n\n<p>Consider which formats are the most widespread ones for your data. This is especially the case with geographic data which is complex and comes in hundreds of formats. Not all are as well adopted as others.&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "A format with context",
+        "body": "<p>Which format can provide additional context to help users understand the data?</p>\n\n<p>For example in an excel spreadsheet, tables can contain bold formatting, formula, validation filters, summary tables and graphs to name but a few things that are in addition to the main data.</p>\n\n<p>Rather than just publish a data format like csv, publish the raw, reusable excel as well.&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "An open format",
+        "body": "<p>An open format is one with a specification that any one can access, use and share.</p>\n\n<p>This means that anyone can create tools to access the data in this format.</p>\n\n<p>It doesn&#39;t necessarily&nbsp;mean that this tool is free!</p>\n\n<p>An open format provides some level of future proofing if a company ceases&nbsp;to exist and their tools are no longer available to read the data.</p>\n\n<p>This is the case with some hardware and media tapes where machines no longer exist that can read and decode the data.&nbsp;&nbsp;&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "A low cost format",
+        "body": "<p>Which format is low cost to use?</p>\n\n<p>Are there free tools that can open the format, allowing everyone access?</p>\n\n<p>CSV is a good example of such a format as it is simple to read and there are hundreds of tools that can use CSV.&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59301d2ed084d5167a04f105",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0ac",
+    "_type": "component",
+    "body": "<p>When publishing data, follow this simple checklist to help maximise its&nbsp;usability and the impact it can create.&nbsp;</p>\n",
+    "displayTitle": "Publication checklist",
+    "title": "Publication checklist",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "1. Put the data on the web",
+        "body": "<p>The first stage is to get the data published on the web.</p>\n\n<p>By now, choices about formats and publication locations should already have been made.&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "2. Add open licence",
+        "body": "<p>Add an open licence to the&nbsp;data that gives others explicit permission to&nbsp;<strong>access</strong>,&nbsp;<strong>use&nbsp;</strong>and&nbsp;<strong>share</strong> the data.&nbsp;</p>\n\n<p>The Open Data Institute&nbsp;provides a<span style=\"color:#0000FF\"> </span><u><a href=\"https://theodi.org/guides/publishers-guide-open-data-licensing\"><span style=\"color:#333333\">guide</span></a></u><span style=\"color:#000000\"> </span>that can help to&nbsp;add the right open data licence.&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "3. Describe your data",
+        "body": "<p>Add relevant descriptive data to help people discover, understand and start using the&nbsp;data.&nbsp;</p>\n\n<p>Many of the data cataloguing platforms already request much of this useful data.&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "4. Connect your data",
+        "body": "<p>Enhance the&nbsp;data catalogue through linking to additional information that will help users understand the context of the data.&nbsp;</p>\n\n<p>Try linking to:</p>\n\n<ul>\n\t<li>The source of the data</li>\n\t<li>Places where the data is used</li>\n\t<li>Reports produced from the data</li>\n\t<li>Other related datasets</li>\n\t<li>Communities that use and support the data</li>\n\t<li>Any other documentation relevant to the data</li>\n</ul>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59301d2ed084d5167a04f106",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0c6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a3eabc9ff7af595c2356ac8a06ded65c0f635501.png",
+      "small": "course/en/assets/a3eabc9ff7af595c2356ac8a06ded65c0f635501.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f107",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0c6",
+    "_type": "component",
+    "body": "<p>Once the dataset is published, use ODI Open Data Certificates to let&nbsp;users know they can rely on the quality of the&nbsp;work.&nbsp;</p>\n\n<p>Getting the&nbsp;data certified helps to establish&nbsp;trust in the quality of the&nbsp;data, showing compliance with the best publishing practices and&nbsp;gaining a broader user base. The ODI Open Data Certificates service also gives free advice on improving data quality.&nbsp;</p>\n\n<p>Getting an&nbsp;Open Data Certificate is simple, fast and free.&nbsp;<a href=\"https://certificates.theodi.org/en\">Click here to start certifying your data</a>.</p>\n",
+    "displayTitle": "Certifying the data",
+    "title": "Certifying the data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f108",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0bf",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f109",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0bf",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to publish data?",
+    "title": "Are you ready to publish data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f10a",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0c7",
+    "_type": "component",
+    "body": "<p>Choosing the right place to publish data can boost the usability and impact of the data.</p>\n\n<p>Where might be the best place(s) to&nbsp;publish your data? There may be more than one correct answer.</p>\n",
+    "displayTitle": "Where should you publish your open data?",
+    "title": "Where should you publish your open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select all options you think are correct",
+    "_items": [
+      {
+        "text": "Organisation website",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Data portal",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Third party websites ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!&nbsp;</p>\n\n<p>The more your data is shared, the more it is used.&nbsp;So you should aim to publish your own open data everywhere you can, including your&nbsp;own website, data portals and third party websites.</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>The more your data is shared, the more it is used.&nbsp;So you should aim to publish your own open data everywhere you can, including your&nbsp;own website, data portals and third party websites.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f10b",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0d3",
+    "_type": "component",
+    "body": "<p>Which of the following criteria is most important when it comes to choosing the right formats for publishing data?</p>\n",
+    "displayTitle": "Data publication formats",
+    "title": "Data publication formats",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one option and click 'submit'",
+    "_items": [
+      {
+        "text": "Reusability",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Open format",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Cost",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!</p>\n\n<p>Publishing data in multiple formats maximises the potential re-usability and allows the fulfilling of all publication requirements. One criteria should not take&nbsp;precedence&nbsp;over any other.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>Publishing data in multiple formats maximises the potential re-usability and allows the fulfilling of all publication requirements. One criteria should not take&nbsp;precedence&nbsp;over any other.&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f10c",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0c8",
+    "_type": "component",
+    "body": "<p>When publishing data, what should you add in order to help users understand the source, context and current usages of the data?</p>\n",
+    "displayTitle": "Providing context",
+    "title": "Providing context",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one option and click 'submit'",
+    "_items": [
+      {
+        "text": "An open licence",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "A good description",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Links to related content",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!&nbsp;</p>\n\n<p>Adding links to other websites that describe the source, context and uses of the data will help new users understand the data and use it correctly. Adding links is also one of the easiest things to do compared to writing a complex description which may need updating regularly.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>Adding links to other websites that describe the source, context and uses of the data will help new users understand the data and use it correctly. Adding links is also one of the easiest things to do compared to writing a complex description which may need updating regularly.&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f10d",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0bd",
+    "_type": "component",
+    "body": "<p>What tool is available to help certify the quality of your open data?</p>\n",
+    "displayTitle": "Certifying your data",
+    "title": "Certifying your data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one answer and click 'submit'",
+    "_items": [
+      {
+        "text": "Open Data Certificates",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Open Refine",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Microsoft Excel",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!</p>\n\n<p>ODI Open Data Certificates is a free online tool developed to assess and recognise the quality of open datasets.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>ODI Open Data Certificates is a free online tool developed to assess and recognise the quality of open datasets.&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f10e",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0c9",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d1d24b4afcea5906ce1684f8cb3231a3ec0446f6.png",
+      "small": "course/en/assets/d1d24b4afcea5906ce1684f8cb3231a3ec0446f6.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f10f",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0c9",
+    "_type": "component",
+    "body": "<p>When publishing open data, it is important to consider why, what and where you publish. Considering the potential usage of the data will help guide not only what data is published&nbsp;but also the formats and websites you choose.</p>\n\n<p>Regardless of where the data is published, following the basic data publication checklist will help ensure that the data is usable.&nbsp;</p>\n\n<p>Increasing the usability of the data even further can be guided by the ODI&#39;s Open Data Certificates, a free online tool that can offer a quality mark for your data.&nbsp;</p>\n",
+    "displayTitle": "Publishing your data",
+    "title": "Publishing your data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f110",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0bd",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a3eabc9ff7af595c2356ac8a06ded65c0f635501.png",
+      "small": "course/en/assets/a3eabc9ff7af595c2356ac8a06ded65c0f635501.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f112",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0bc",
+    "_type": "component",
+    "body": "<p>Specifying the data type for each column or set of cells in a spreadsheet can help you check the data appears correct&nbsp;and format the data for easy use. There are many different data types available that can usually be selected from the&nbsp;<em>cell format</em>&nbsp;menu.&nbsp;</p>\n\n<p>Useful formats include:</p>\n\n<ul>\n\t<li>Numbers</li>\n\t<li>Text</li>\n\t<li>Currency</li>\n\t<li>Dates</li>\n\t<li>Multiple choice</li>\n\t<li>True/False (Yes/No)</li>\n</ul>\n\n<p>The graphic here shows a sample cell format for a date. Sometimes, due to inconsistency between the way dates are entered, excel can fail to recognise these entries as dates.</p>\n\n<p>Using a date format with year first, followed by month and day, means that sorting by date will always be correct, regardless of whether&nbsp;the data is understood to be a date or not.</p>\n",
+    "displayTitle": "Data types",
+    "title": "Data types",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f113",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0a7",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f114",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0be",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f115",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0b5",
+    "_type": "component",
+    "body": "<p>Values contained in a single column should be consistent in their type.&nbsp;For example, in a <em>First name</em>&nbsp;column you would use text, an <em>Age</em>&nbsp;column would&nbsp;contain numbers,&nbsp;a&nbsp;<em>Date of birth&nbsp;</em>should contain dates.&nbsp;&nbsp;</p>\n\n<p>When collecting data, ensure that all your entries are expressed in the same type of value. For example if you have an age column, you should change any text entries to numbers to make sure they match up.&nbsp;In the majority of spreadsheet applications you can enforce the criteria of the data type per column by going to &#39;Validation&#39; from the &#39;Data&#39; button in the menu.</p>\n",
+    "displayTitle": "Data types",
+    "title": "Data types",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Explore each data type below",
+    "_items": [
+      {
+        "title": "Text/String",
+        "body": "<p>This&nbsp;data type is the most flexible and allows any combination of characters to make a sentence.</p>\n\n<p>e.g. <em>Emily,&nbsp;</em><em>2nd Royal Artillery</em></p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Numbers",
+        "body": "<p>Numbers can include whole numbers (otherwise known as&nbsp;&#39;integers&#39;)&nbsp;such as&nbsp;<em>1, 12, 312</em>&nbsp;etc, or decimal numbers, such as&nbsp;<em>1.25, 32.789</em>.&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Date",
+        "body": "<p>Picking a consistent format for dates is crucial. You can choose how you want to display it&nbsp;(e.g. 2016-09-14) or use the one built into the spreadsheet application.&nbsp;</p>\n\n<p>As dates can be presented in many different ways, it&nbsp;is recommended that you validate them (check for correctness and consistency)&nbsp;on collection by going to &#39;Data&#39; in the menu bar and choosing &#39;Validation&#39;. However, this does not always work if the&nbsp;American form (MM/DD/YYYY) and&nbsp;British form (DD/MM/YYYY) are used interchangeably - it would be impossible to determine whether&nbsp;the date &#39;04/05/2016&#39; would mean the fourth of May, or fifth of April.&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Defined options",
+        "body": "<p>Data types can also be&nbsp;defined options, such as <em>true</em> or <em>false</em>, <em>yes</em> or <em>no</em>, or a limited range of text or numbers.&nbsp;</p>\n\n<p>You can use the validation function&nbsp;to ensure that a user can only enter valid values.&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59301d2ed084d5167a04f116",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0c4",
+    "_type": "component",
+    "body": "<p>Clean data&nbsp;is simpler to use and helps us draw better&nbsp;conclusions.</p>\n\n<p>Publishers should try their best to use data validation when inputting data.&nbsp;However, this can&#39;t guarantee that the data is completely&nbsp;clean. Human mistakes such as&nbsp;mistyping or incorrect abbreviations are unavoidable in data entry&nbsp;and, as data is updated over the years, mistakes can pile up. With the right tools however, you can quickly get a handle on the data and produce a cleaner, more useful version for your work and the community.</p>\n\n<p>To get to grips with data cleaning,&nbsp;download a copy of <a href=\"http://openrefine.org/\">Open Refine</a> and try to clean <a href=\"https://drive.google.com/file/d/0B1VBoooQ3X5jMjdSRmhfWDBhQzg/view?usp=sharing\">this dataset</a> as best you can, using the instructional videos to help you.&nbsp;Once you are finished,&nbsp;submit the dataset to your&nbsp;course coordinator for checking.&nbsp;</p>\n",
+    "displayTitle": "Validating and cleaning data",
+    "title": "Validating and cleaning data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f117",
+    "_layout": "full",
+    "_parentId": "59301d2dd084d5167a04f0ab",
+    "_type": "component",
+    "body": "<p>Without clean data, we can&rsquo;t build information. There are a number of useful tools that can help you to&nbsp;clean&nbsp;data.</p>",
+    "displayTitle": "The data-cleaning toolkit",
+    "title": "The data-cleaning toolkit",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "Click the forward arrow to see more.",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "The data-cleaning toolkit",
+        "body": "<p>When you are looking for errors in data, it may be necessary to download and upload datasets in many tools for cleaning and processing.</p><p>It is also important to keep a note of what changes have been made and share these openly with others so that everyone can benefit from your work, particularly if the data you are cleaning is existing open data that has been published.</p><p>In this section we look at two of the main tools and their uses:</p><ul><li>Open Refine</li><li>Spreadsheets</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/33486d36922cc44d7b5832d0c3a21bc1722f88af.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-232737427\" target=\"_blank\">Kirill_M</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "The data-cleaning toolkit"
+      },
+      {
+        "title": "Open Refine",
+        "body": "<p>Open Refine is a software tool designed to deal with uncleaned data. The tool is a column-based browser that allows you to fix errors across an entire open dataset in a single action. The errors that can be fixed include:</p><ul><li>Date formats</li><li>Multiple representations</li><li>Duplicate records</li><li>Redundant data</li><li>Mixed numerical scales</li><li>Mixed ranges</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/14f94f71b66fc8cf7c1f405d8a1fb73e7ffef06d.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://openrefine.org/\" target=\"_blank\">OpenRefine</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "Open Refine"
+      },
+      {
+        "title": "Spreadsheet programmes",
+        "body": "<p>Open Refine is a key tool for cleaning data. However, it is sometimes easier to fix some errors in a spreadsheet programme:</p><ul><li>Spelling errors</li><li>Redundant data</li><li>Numerical verification</li><li>Fixing shifted data</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/42b138ca58598195931fd55cd7d078d47f87a897.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-photo/software-developer-programming-code-abstract-computer-235025131\" target=\"_blank\">Mclek</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Spreadsheet "
+      }
+    ]
+  },
+  {
+    "_id": "59301d2ed084d5167a04f118",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0d0",
+    "_type": "component",
+    "body": "<p>A common challenge&nbsp;in&nbsp;ensuring data quality is difficulties in the use of spreadsheets. When data is properly managed, it is much easier to answer&nbsp;fundamental questions and conduct analysis. Correctly managed data also ensures you aren&#39;t making decisions based on faulty evidence. Different sectors may have international data standards to ensure consistent data collection and quality, such as <a href=\"http://aims.fao.org/capacity-development/good-practices\">AIMS</a> in agriculture. But knowing how to structure and organise data in a spreadsheet is fundamental to ensuring consistency anywhere.&nbsp;</p>\n\n<p>In this module&nbsp;we look at how to effectively structure a spreadsheet for raw data collection. We will cover:</p>\n\n<ul class=\"ticks\">\n\t<li>Spreadsheet layouts</li>\n\t<li>Column titles&nbsp;</li>\n\t<li>Header&nbsp;rows and the freeze function</li>\n\t<li>Data types</li>\n</ul>\n\n<p>At the end of this module you can try out what you&#39;ve learnt on a spreadsheet.&nbsp;&nbsp;&nbsp;</p>\n",
+    "displayTitle": "Organising data",
+    "title": "Organising data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59301d2ed084d5167a04f119",
+    "_layout": "full",
+    "_parentId": "59301d2dd084d5167a04f0cc",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Effective organisation and careful management of data makes it easier&nbsp;to ensure data quality, and analyse or visualise results. This starts with understanding the basics of a spreadsheet and creating a good template in which to collect data.&nbsp;</p><p dir=\"ltr\">Discover the fundamentals of spreadsheet layouts below.</p>",
+    "displayTitle": "Spreadsheet layouts",
+    "title": "Spreadsheet layouts",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "Click the ‘+’ sign to explore further, then swipe the image to see more.",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Rows, Columns and values",
+        "body": "<p>Ensure you understand these important aspects and use them correctly.</p>\n\n<p><strong>Rows:&nbsp;</strong>A row represents a <strong>single</strong> record&nbsp;in your collection. For example in a dataset of companies, each row must represent a single company and in a dataset of health facilities each row must only represent a single facility.&nbsp;</p>\n\n<p><strong>Columns:&nbsp;</strong>A column defines a feature (or field) for every record. For example in a dataset of people a good field to collect would be &quot;first name&quot;.</p>\n\n<p><strong>Values:&nbsp;</strong>Values are what is recorded in each row/column. For example &quot;Emily&quot; would be the value for the &quot;first name&quot; of a single person in a dataset of people.&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/d2bdbfbb07b24d7561e89b5ff069d5f6d6e39774.jpg",
+          "alt": ""
+        },
+        "strapline": "Rows, columns and values"
+      },
+      {
+        "title": "Sheets and multiple sheets",
+        "body": "<p>Each sheet in a spreadsheet should&nbsp;<strong>only contain one table</strong>.</p><p>Start your table at row 1, column 1 (top left corner).</p><p>Avoid adding multiple tables starting in different parts of the sheet&nbsp;(e.g. column L row 16).</p><p>You should also avoid using multiple sheets unless it is&nbsp;necessary to collect multiple different datasets in one spreadsheet.&nbsp;</p><p>For Example: If you are collecting a dataset of companies, add them all to a single sheet and avoid&nbsp;dividing&nbsp;them by type or location of company. You may end up with a sheet containing many thousands of rows, however it is easier to filter a single sheet than multiple sheets (covered in a later module).</p>",
+        "_graphic": {
+          "src": "course/en/assets/573957752a5406198646932aca0d3797f675cd7f.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/dantaylr/5530488320/in/photolist-9qHcuU-7X7AsE-8vDDiK-aEbPxa-c3V5iQ-9qEcBi-9qEcHc-9SdQJ6-78tFyw-9QL3D5-dhcgcP-9DZECa-7mjBuA-8Tvjsc-8hDuSz-rhMMZM-ceYiiA-ofprBy-aFqjTk-edX4Zn-4jHTqA-ceXXhf-8JjqyS-73Rmn9-cftVLN-8zjqWR-bcBuoz-cfuRgY-h6T5GF-8kLqqd-chuEMG-ceYdrh-ceXaRw-8S8NT6-9GQp44-pqtQVx-D5Lni-9GQoRK-6S4aRa-9YT9Fz-DstUFQ-e336BW-ApAEDK-eaCc1U-zrrF5D-aP17sH-aFH4zM-eawwGR-eawwf4-AK8HaF\" target=\"_blank\">Dan Taylr</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Sheets and multiple sheets"
+      }
+    ]
+  },
+  {
+    "_id": "59301d2ed084d5167a04f11a",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0a8",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d0bbb7bab4bd1d32d12fe184245de0469eb663c7.jpg",
+      "small": "course/en/assets/d0bbb7bab4bd1d32d12fe184245de0469eb663c7.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-201870622.html\" target=\"_blank\">Your Design</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f11b",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0b5",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/26b463eaa6ccf87886ac07dfe7a0e03bd7f79a15.jpg",
+      "small": "course/en/assets/26b463eaa6ccf87886ac07dfe7a0e03bd7f79a15.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/mjtmail/3008566512\" target=\"_blank\">mjtmail (tiggy)</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f11c",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0b6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/029418c3d6a4a6087d14575d291bcb6ee5fa994c.jpg",
+      "small": "course/en/assets/029418c3d6a4a6087d14575d291bcb6ee5fa994c.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/dantaylr/5530488320/in/photolist-9qHcuU-7X7AsE-8vDDiK-aEbPxa-c3V5iQ-9qEcBi-9qEcHc-9SdQJ6-78tFyw-9QL3D5-dhcgcP-9DZECa-7mjBuA-8Tvjsc-8hDuSz-rhMMZM-ceYiiA-ofprBy-aFqjTk-edX4Zn-4jHTqA-ceXXhf-8JjqyS-73Rmn9-cftVLN-8zjqWR-bcBuoz-cfuRgY-h6T5GF-8kLqqd-chuEMG-ceYdrh-ceXaRw-8S8NT6-9GQp44-pqtQVx-D5Lni-9GQoRK-6S4aRa-9YT9Fz-DstUFQ-e336BW-ApAEDK-eaCc1U-zrrF5D-aP17sH-aFH4zM-eawwGR-eawwf4-AK8HaF\" target=\"_blank\">Dan Taylr</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f11d",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0b7",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d0bbb7bab4bd1d32d12fe184245de0469eb663c7.jpg",
+      "small": "course/en/assets/d0bbb7bab4bd1d32d12fe184245de0469eb663c7.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-201870622.html\" target=\"_blank\">Your Design</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f11e",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0ad",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/26b463eaa6ccf87886ac07dfe7a0e03bd7f79a15.jpg",
+      "small": "course/en/assets/26b463eaa6ccf87886ac07dfe7a0e03bd7f79a15.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/mjtmail/3008566512\" target=\"_blank\">mjtmail (tiggy)</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f11f",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0bc",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/26b463eaa6ccf87886ac07dfe7a0e03bd7f79a15.jpg",
+      "small": "course/en/assets/26b463eaa6ccf87886ac07dfe7a0e03bd7f79a15.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/mjtmail/3008566512\" target=\"_blank\">mjtmail (tiggy)</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f120",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0ce",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2da5b534acdc8080cc6a818ac4af094a17d30785.jpg",
+      "small": "course/en/assets/2da5b534acdc8080cc6a818ac4af094a17d30785.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-246719938\" target=\"_blank\">Sashkin</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f121",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0c0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ae0541d37bc892cc4b6b2ae323d3cc05d21ef6b4.jpg",
+      "small": "course/en/assets/ae0541d37bc892cc4b6b2ae323d3cc05d21ef6b4.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-232737427\" target=\"_blank\">Kirill_M</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f122",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0c2",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fe415bc825dd02ff2ba027e9620bbd46a06c14d4.jpg",
+      "small": "course/en/assets/fe415bc825dd02ff2ba027e9620bbd46a06c14d4.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-photo/software-developer-programming-code-abstract-computer-235025131\" target=\"_blank\">Mclek</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f123",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0d2",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ae0541d37bc892cc4b6b2ae323d3cc05d21ef6b4.jpg",
+      "small": "course/en/assets/ae0541d37bc892cc4b6b2ae323d3cc05d21ef6b4.jpg",
+      "attribution": "<a href=\"Source: http://www.shutterstock.com/pic-232737427\" target=\"_blank\">kirill_makarov</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f124",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0c3",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ae0541d37bc892cc4b6b2ae323d3cc05d21ef6b4.jpg",
+      "small": "course/en/assets/ae0541d37bc892cc4b6b2ae323d3cc05d21ef6b4.jpg",
+      "attribution": "<a href=\"Source: http://www.shutterstock.com/pic-232737427\" target=\"_blank\">kirill_makarov</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f125",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0c5",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f152c001b5cb059172fc7cce1c0aa39e18fd77fc.jpg",
+      "small": "course/en/assets/f152c001b5cb059172fc7cce1c0aa39e18fd77fc.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/colorful-cubes-four-levels-abstract-background-200818673?src=lb-36497927\" target=\"_blank\">April Cat</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f126",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0ac",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/cee6cca8f3fc96016fdb0cb042dc1a6caf5f2016.jpg",
+      "small": "course/en/assets/cee6cca8f3fc96016fdb0cb042dc1a6caf5f2016.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/3d-renderer-image-vending-machine-application-277792007?src=id\" target=\"_blank\">MEgo-studio</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f127",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0c7",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a4e1ed47c1d4c605cacc0e2deb4b291dc3eeadc6.jpg",
+      "small": "course/en/assets/a4e1ed47c1d4c605cacc0e2deb4b291dc3eeadc6.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366\" target=\"_blank\">Oleksiy Mark</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f128",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0d3",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f152c001b5cb059172fc7cce1c0aa39e18fd77fc.jpg",
+      "small": "course/en/assets/f152c001b5cb059172fc7cce1c0aa39e18fd77fc.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/colorful-cubes-four-levels-abstract-background-200818673?src=lb-36497927\" target=\"_blank\">April Cat</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f129",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0c8",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/cee6cca8f3fc96016fdb0cb042dc1a6caf5f2016.jpg",
+      "small": "course/en/assets/cee6cca8f3fc96016fdb0cb042dc1a6caf5f2016.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/3d-renderer-image-vending-machine-application-277792007?src=id\" target=\"_blank\">MEgo-studio</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f12a",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0bb",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/95916dd3fa40e71f215e130084d9adc240cf363b.jpg",
+      "small": "course/en/assets/95916dd3fa40e71f215e130084d9adc240cf363b.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/ellasdad/425813314\" target=\"_blank\">Ella's Dad</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f12b",
+    "_layout": "left",
+    "_parentId": "59301d2dd084d5167a04f0d1",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fe415bc825dd02ff2ba027e9620bbd46a06c14d4.jpg",
+      "small": "course/en/assets/fe415bc825dd02ff2ba027e9620bbd46a06c14d4.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-photo/software-developer-programming-code-abstract-computer-235025131\" target=\"_blank\">Mclek</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59301d2ed084d5167a04f12c",
+    "_layout": "right",
+    "_parentId": "59301d2dd084d5167a04f0a5",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f152c001b5cb059172fc7cce1c0aa39e18fd77fc.jpg",
+      "small": "course/en/assets/f152c001b5cb059172fc7cce1c0aa39e18fd77fc.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/colorful-cubes-four-levels-abstract-background-200818673?src=lb-36497927\" target=\"_blank\">April Cat</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59301ef1d084d5167a04f2a2",
+    "_layout": "right",
+    "_parentId": "59301da0d084d5167a04f2a0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d0d27cb926ed6ebfc46c7f07bfbc957de18ad130.png",
+      "small": "course/en/assets/d0d27cb926ed6ebfc46c7f07bfbc957de18ad130.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59301f40d084d5167a04f2a7",
+    "_layout": "right",
+    "_parentId": "59301f34d084d5167a04f2a5",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4861282fc5c236db76c8262421afba1bc2d70748.jpg",
+      "small": "course/en/assets/4861282fc5c236db76c8262421afba1bc2d70748.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59302366d084d5167a04f2b1",
+    "_layout": "right",
+    "_parentId": "5930201cd084d5167a04f2af",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4861282fc5c236db76c8262421afba1bc2d70748.jpg",
+      "small": "course/en/assets/4861282fc5c236db76c8262421afba1bc2d70748.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59302360d084d5167a04f2b0",
+    "_layout": "left",
+    "_parentId": "5930201cd084d5167a04f2af",
+    "_type": "component",
+    "body": "<p>This module explores digital maps and&nbsp;how open data can enhance them; how to use maps in&nbsp;projects; and how to visualise and explore data with them.&nbsp;By the end of the module, you&#39;ll have a good understanding of the issues around digital mapping, and&nbsp;skills&nbsp;that can be used in your own work.</p><p>The module explores:</p><ul><li>Introduction to digital maps</li><li>Benefits of open mapping</li><li>How to describe something on a map</li><li>Formats and standards</li><li>Practical mapping with CartoDB</li></ul>",
+    "displayTitle": "Mapping open data",
+    "title": "Mapping open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59302489d084d5167a04f2b7",
+    "_layout": "left",
+    "_parentId": "59302477d084d5167a04f2b6",
+    "_type": "component",
+    "body": "<p>Digital maps and the associated Geographic Information Systems (GIS) enable us to easily capture, manipulate, analyse and present spatial and geographic data.&nbsp;</p><p>Geographic data here refers to any data that has an implicit or explicit association with a location. Typically, this covers a wide range of&nbsp;data, including positional data (e.g. locations of schools), boundary data (e.g. regions of Tanzania) and elevation data (e.g. the height of Kilimanjaro).&nbsp;</p><p>Maps have for centuries been critical to helping us to understand where we are and what is around us. Digital maps go beyond this and allow us to create new data visualisations for any dataset that has a geographic connection.&nbsp;</p>",
+    "displayTitle": "Introduction to digital mapping",
+    "title": "Introduction to digital mapping",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5930248cd084d5167a04f2b8",
+    "_layout": "right",
+    "_parentId": "59302477d084d5167a04f2b6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e91c6759bf0c2ffded3781b0895c6629bae11edd.jpg",
+      "small": "course/en/assets/e91c6759bf0c2ffded3781b0895c6629bae11edd.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-53095825.html\" target=\"_blank\">Mikael Damkier</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59302aabd084d5167a04f2bf",
+    "_layout": "full",
+    "_parentId": "59302a9fd084d5167a04f2be",
+    "_type": "component",
+    "body": "<p>Open digital mapping platforms enable anyone to make their own maps.&nbsp;Ramani Huria is a community-based mapping project that began in Dar es Salaam. Its initial&nbsp;aim is to&nbsp;create highly accurate maps of the most flood-prone areas of the city. As the maps have taken shape, their benefits have multiplied and their potential magnified. They now serve as foundational tools for development within all socio-economic spheres beyond flood resilience.&nbsp;</p>",
+    "displayTitle": "Community mapping for flood resilience and development",
+    "title": "Community mapping for flood resilience and development",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Watch the video to find out more about the Ramani Huria project.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://www.youtube.com/watch?v=7Pa0wgMstE8",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_id": "59302a64d084d5167a04f2bc",
+    "_layout": "left",
+    "_parentId": "59302a3bd084d5167a04f2bb",
+    "_type": "component",
+    "body": "<p>Ramani Huria is an excellent case study in the benefits open mapping can have. The key to the success and multiplied benefits from the project all stem from the completely open approach taken.</p><p>From the choice of mapping platform to the community engagement and crowd sourcing, the project ensured that&nbsp;all data remained open and that the process of collecting it was open.&nbsp;</p><p>OpenStreetMap is a free, editable map of the world that is being built by volunteers largely from scratch and released with an open content license. This is a significantly different model to most mapping providers who guard their maps and charge for access and do not allow any edits. In countries such as Tanzania, OpenStreetMap allows&nbsp;incredibly rich maps to be created, which open up the data, so others can innovate.&nbsp;</p>",
+    "displayTitle": "Benefits of open mapping",
+    "title": "Benefits of open mapping",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59302a66d084d5167a04f2bd",
+    "_layout": "right",
+    "_parentId": "59302a3bd084d5167a04f2bb",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/add96cef0a182672fdf9c372eb2cdd4c81d87f6f.png",
+      "small": "course/en/assets/add96cef0a182672fdf9c372eb2cdd4c81d87f6f.png",
+      "attribution": "<a href=\"http://wiki.openstreetmap.org\" target=\"_blank\">OpenStreetMap</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59301eeed084d5167a04f2a1",
+    "_layout": "left",
+    "_parentId": "59301da0d084d5167a04f2a0",
+    "_type": "component",
+    "body": "<p>Most&nbsp;charts used in modern data visualisation&nbsp;derive from the original design of&nbsp;<a href=\"http://en.wikipedia.org/wiki/William_Playfair\" rel=\"wikipedia\" title=\"William Playfair\">William Playfair</a>&nbsp;(1759&ndash;1823), a political economist.</p><p>William Playfair invented several types of&nbsp;<a href=\"https://en.wikipedia.org/wiki/Information_graphics\" title=\"Information graphics\">diagram</a>: in 1786 the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Line_chart\" title=\"Line chart\">line</a>,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Area_chart\" title=\"Area chart\">area</a>&nbsp;and&nbsp;<a href=\"https://en.wikipedia.org/wiki/Bar_chart\" title=\"Bar chart\">bar chart</a>&nbsp;of economic data, and in 1801 the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Pie_chart\" title=\"Pie chart\">pie chart</a>&nbsp;and circle graph.&nbsp;</p><p>Playfair&nbsp;argued that charts communicated better than tables of data and was the early pioneer of visual communication using charts.&nbsp;</p>",
+    "displayTitle": "Data visualisation",
+    "title": "Data visualisation",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59345a19d084d5167a04f73a",
+    "_layout": "full",
+    "_parentId": "593458a9d084d5167a04f737",
+    "_type": "component",
+    "body": "<p>William Playfair recognised that data tables did not effectively communicate to people. Even in the 18th century, he recognised the importance of visualising&nbsp;data to aid communication. Since this point, modern, data literacy and access to data have meant that communication is not the only purpose of a data&nbsp;visualisation.</p>",
+    "displayTitle": "Why visualise data?",
+    "title": "Why visualise data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Clear communication",
+        "body": "<p>Powerful messages need to be communicated clearly.</p><p>Bar charts, pie charts and clear numbers are a very effective way to communicate.</p><p>Other effective methods use large visuals and introduce figures that may help people relate to the story (e.g. stick figures could be added to represent the number of people with the visual shown here).</p>",
+        "_graphic": {
+          "src": "course/en/assets/18738e0898ac8f711ed72e3be0a1bfe45e5c7aaa.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Clear communication"
+      },
+      {
+        "title": "Storytelling",
+        "body": "<p>A good data visualisation can also help tell an engaging story.</p><p>This piece of work by the New York Times&nbsp;asks readers to engage directly with the story and challenges their existing knowledge about how President Obama did during his presidency.</p><p>This can be a very effective way to entertain and directly educate users. This appears to learners who are kinesthetic&nbsp;and like to learn by doing.&nbsp;</p><p>Why not find out how much you know about the Obama presidency?</p><p><a class=\"button\" href=\"https://www.nytimes.com/interactive/2017/01/15/us/politics/you-draw-obama-legacy.html?_r=0\" target=\"_blank\">Explore this story</a></p>",
+        "_graphic": {
+          "src": "course/en/assets/50acadab73c9617dbb20e58de45e13c61bd65dd7.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Storytelling"
+      },
+      {
+        "title": "Aiding understanding",
+        "body": "<p>Many visualisations are created to aid understanding of the patterns that exist in data.&nbsp;</p><p>Examples of such visualisations include scatter graphs, radar charts and bubble charts, which are often used to compare two or more aspects in data or look for early emergence of patterns in the data.</p><p>The one here is a radar graph to show the progress of open data in Tanzania. You can read more in the Open Data Barometer.</p><p>The key to graphs that aid understanding is that you will likely need to read more as it is not immediately obvious what it is trying to say.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/f2e9df69f26cbe1a3bdd8092c9b673832640cccc.png",
+          "alt": "",
+          "attribution": "<a href=\"http://opendatabarometer.org/data-explorer/?_year=2015&indicator=ODB&open=TZA\" target=\"_blank\">Open Data Barometer</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "Aiding understanding"
+      },
+      {
+        "title": "Encouraging interaction with the data",
+        "body": "<p>Some visualisations add an&nbsp;interactive element that allows the free exploration of data. This type of visualisation&nbsp;can help get people interested in the data and help them to find their own story from it.&nbsp;</p><p>Dashboards are a good example of this type of visualisation. The one here shows water points in Tanzania and categorises them by how many are functional or not.&nbsp;</p><p>The key to any visualisation that is intended to get people interested in open data is to link directly to the raw data, such that people can interrogate it themselves.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3b2d594892830b2f90c1bb5026eadf0008ef9349.png",
+          "alt": "",
+          "attribution": "<a href=\"http://water.opendata.go.tz/#/dash/points/waterpoints/?_k=8rupjz\" target=\"_blank\">Tanzania Government Open Data Portal</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Encouraging interaction with the data"
+      }
+    ]
+  },
+  {
+    "_id": "593460cbd084d5167a04f742",
+    "_layout": "full",
+    "_parentId": "593460a4d084d5167a04f741",
+    "_type": "component",
+    "body": "<p>Regardless of how you use visualisations, it is&nbsp;important to understand what the key visualisations are, when to use them and when not to use them.</p>",
+    "displayTitle": "Data visualisations and their use",
+    "title": "Data visualisations and their use",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Bar charts",
+        "body": "<p>The human brain is very good at quickly judging the size of simple shapes, such as rectangles. Therefore, the bar chart can very effectively communicate differences.&nbsp;</p><p>Simple bar charts can communicate powerful messages quickly.&nbsp;Enhancing bar charts and pie charts with graphics and well-placed text can also aid clear understanding. You do not&nbsp;even always need scales or lines.</p><p>The picture on the left compares the revenue of one product to the revenue of an entire company, where the product has made more money. If you were creating a visualisation to tell this story, what might you add to make this finding stand out even more?</p>",
+        "_graphic": {
+          "src": "course/en/assets/34eb7b4a0a4b7747b9d04b9920aff369a14523cc.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.businessinsider.com/iphone-bigger-than-microsoft-2012-2?IR=T\" target=\"_blank\">Business Insider</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "Bar charts"
+      },
+      {
+        "title": "Line and area charts",
+        "body": "<p>Line and area charts should&nbsp;<strong>only</strong>&nbsp;be used where there is a time series to be displayed. In most countries and cultures,&nbsp;people read left to right. Therefore, line charts must be constructed to be read from left to right.&nbsp;</p><p>A line chart, as shown here, is best for comparing multiple sets of data over the same (or equivalent) timeframe.</p><p>An area chart can be used to emphasise the totals. When using area charts, it is best to use a stacked area to clearly show the total of all datasets over the same (or equivalent) period of time.</p>",
+        "_graphic": {
+          "src": "course/en/assets/de828319078da8466ec5450e1637d5cbe8d35290.png",
+          "alt": "",
+          "attribution": "<a href=\"http://www.bbc.co.uk/sport/olympics/36970388\" target=\"_blank\">BBC</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "Line and area charts"
+      },
+      {
+        "title": "Histograms",
+        "body": "<p>Histograms should be used when a set of samples are taken at different points in time. For example, exam grades of different people&nbsp;or different heights, as shown here.&nbsp;</p><p>A histogram is perfect for showing graphically where the median and mode lie. They also&nbsp;show the distribution (or shape) of the data and surface any outliers that might skew the location of the mean.&nbsp;</p><p>Significantly, they can reveal whether&nbsp;the samples in your dataset are normally distributed, or contain data that might be skewed or falsified.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/31add8e4b3529b2c6fe0eb2468e4a9a8a7521774.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.usablestats.com/lessons/normal\" target=\"_blank\">Usable stats</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "Histograms"
+      },
+      {
+        "title": "Maps",
+        "body": "<p>Many datasets are related in some way to locations, and so visualising data on a map is the perfect way to make the data come to life.</p><p>Care should be taken in creating&nbsp;the right type of map, and using&nbsp;the right features to direct the reader. This is something we look at in more detail in the next module.</p><p>The map shown here uses a simple traffic-light scale to show the teacher-to-pupil ratio in schools in Tanzania.</p><p>In the next module, we will create our own map from a similar dataset.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/54b8b64dfbbe5c7bd331bc3a43697369904987b4.png",
+          "alt": "",
+          "attribution": "<a href=\"http://opendata.go.tz/en/indicator/2cb7fed8-4af4-11e5-a53c-0e9d821ea90d\" target=\"_blank\">Tanzania Open Data Portal</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Maps"
+      }
+    ]
+  },
+  {
+    "_id": "5934636cd084d5167a04f749",
+    "_layout": "left",
+    "_parentId": "59346360d084d5167a04f748",
+    "_type": "component",
+    "body": "<p>Data visualisations can be a powerful&nbsp;way of bringing data to life, and helping others&nbsp;deduce meaning from it. But before you start visualising your data, you should consider some key aspects.</p>",
+    "displayTitle": "Appropriate visualisations for data",
+    "title": "Appropriate visualisations for data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Audience",
+        "body": "<p>Before creating a visualisation,&nbsp;you need to decide&nbsp;how you want to share it&nbsp;and who you want your audience to be.</p><p>Your audience may already have a set way of engaging with data that you cannot change. For example, if your audience is comfortable reading long reports then a visualisation may not be the best solution.&nbsp;</p><p>You should also think about the medium for consumption and technology available and understandable by your audience. For example, it would not be wise to create a full-screen dashboard for those who only have access to mobile devices.&nbsp;</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Purpose",
+        "body": "<p>Once you know your audience, consider the purpose to your data visualisation; why are you visualising the data?&nbsp;</p><p>Remember the four key reasons we introduced earlier:</p><ul><li>Clear communication</li><li>Storytelling</li><li>Aiding understanding</li><li>Encouraging interaction with the data</li></ul><p>Some visualisations can serve multiple purposes, however, you should try to avoid mixing communication with any other purpose. This might dilute the message you are trying to communicate to the point where it is no longer obvious to the audience.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data",
+        "body": "<p>Not all data is suitable&nbsp;for a particular visualisation.&nbsp;</p><p>For example, a line or area chart should never be used for data that is not sampled over time.&nbsp;</p><p>Consider carefully your dataset type and how the data was collected. There are a number of typical types of data:</p><p><strong>Time series</strong>: Observations of the same thing over time &ndash; best represented on a line chart or animated graphic.</p><p><strong>Population data</strong>: Observations of different things at a single point in time &ndash; best represented by a bar chart, pie chart of other static visualisations.&nbsp;</p><p><strong>Observations</strong>: Observations of different things at different points in time &ndash; best represented on a dashboard.</p><p>Confusion can occur when a dataset combines one or more of these types of data and you must decide how to use that dataset.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59346373d084d5167a04f74a",
+    "_layout": "right",
+    "_parentId": "59346360d084d5167a04f748",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ac8ed9a5107f9fa9e722fd5917db7325e48cbe49.jpg",
+      "small": "course/en/assets/ac8ed9a5107f9fa9e722fd5917db7325e48cbe49.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/global-communication-concept-102447179\" target=\"_blank\">hoperan</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59347843d084d5167a04f75b",
+    "_layout": "full",
+    "_parentId": "5930352ad084d5167a04f2c3",
+    "_type": "component",
+    "body": "<p>There are many parts to a map and&nbsp;cartography can become an art. This section briefly looks at the many layers of a map.</p>",
+    "displayTitle": "How to describe something on a map",
+    "title": "How to describe something on a map",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Points",
+        "body": "<p>Points help you precisely locate something on a map, for example, a person or a place.&nbsp;</p><p>Often these are used to mark the middle of an object that might often be better represented by another map feature, such as a line or polygon.</p>",
+        "_graphic": {
+          "src": "course/en/assets/2fe57077a9b28018eac39034dad2e66bf4e34f76.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.fixmystreet.com/\" target=\"_blank\">Fixmystreet</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Points"
+      },
+      {
+        "title": "Lines",
+        "body": "<p>Lines represent the shape and location of geographic objects, such as street centre&nbsp;lines, rivers or ferry routes.</p><p>Lines are also used to represent features that have length but no area, such as contour lines and boundaries.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/cc0743d56044f6e585a51f71e14e270e49ecf74e.png",
+          "alt": "",
+          "attribution": "<a href=\"http://ansoncfit.com\" target=\"_blank\">http://ansoncfit.com</a> <span class='assetLicence'>[CC-BY-NC-SA]</span>"
+        },
+        "strapline": "Lines"
+      },
+      {
+        "title": "Polygons",
+        "body": "<p>Polygons are complete shapes that represent a feature such as regions (as shown here) or buildings.</p><p>They can also be used to represent land-use or even soil type.&nbsp;</p><p>Using GIS software, you can automatically calculate which points are in which polygon. This is often used to shade areas on a map dependant on the data collected from many points, e.g. the performance of schools in a region.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/280023e2795af132b2cb94521e4c1ce546174f30.png",
+          "alt": "",
+          "attribution": "<a href=\"https://en.wikipedia.org/wiki/File:Tanzania_regions.svg\" target=\"_blank\">Gregor Aisch</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Polygons"
+      },
+      {
+        "title": "Bringing it all together",
+        "body": "<p>Bringing all these features together allows us to create powerful maps that accurately show the layout and features of a huge area.</p><p>The example here of the centre of Dar Es Salaam is one of the most comprehensive examples in the world. This data was gathered as part of the&nbsp;Ramani Huria project and shows roads (lines), buildings (polygons), building use (points) and annotations that describe each point.</p>",
+        "_graphic": {
+          "src": "course/en/assets/168853c0a47147e13d2dc80a40342372a4a63874.png",
+          "alt": "",
+          "attribution": "<a href=\"http://www.openstreetmap.org/#map=19/-6.80164/39.25077\" target=\"_blank\">Open Street Map contributors</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Bringing it all together"
+      }
+    ]
+  },
+  {
+    "_id": "59347f37d084d5167a04f767",
+    "_layout": "left",
+    "_parentId": "59347f04d084d5167a04f766",
+    "_type": "component",
+    "body": "<p>There are a number of different data formats and standards used to represent mapping data. It is important to understand that all of the different data formats rely on one or more standard ways of representing a simple location (or point). Putting many points together enables&nbsp;lines and polygons to be drawn. &nbsp;</p><p>Explore the different aspects below:</p>",
+    "displayTitle": "Formats and standards",
+    "title": "Formats and standards",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "A standard way to represent a location",
+        "body": "<p>The globally recognised way to represent a location of something is via the Global Positioning Satellite (GPS) system. Devices that use this system typically give location in terms of two X-Y co-ordinates on a map.&nbsp;</p><p>There are however many different X-Y standards including longitude/latitude and easting/northing.&nbsp;</p><p>You will have to be very careful when processing and combining&nbsp;mapping data to ensure that all data is using the same co-ordinates system.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Common data formats",
+        "body": "<p>Representing simple point data (using one X-Y co-ordinate) can be done in a multitude of formats, including&nbsp;spreadsheets.&nbsp;</p><p>However, when it comes to more complex data, such as lines and polygons, there are many other formats more suited to the purpose including <a href=\"https://en.wikipedia.org/wiki/Keyhole_Markup_Language\" target=\"_blank\">KML</a>, <a href=\"https://en.wikipedia.org/wiki/GeoJSON\" target=\"_blank\">GeoJSON</a> and <a href=\"https://en.wikipedia.org/wiki/Shapefile\" target=\"_blank\">GIS Shapefiles</a> (as used by the Ministry of Statistics in Tanzania).&nbsp;</p><p>As with data formats, not all geographic data formats are open and easily usable by all tools. It may be necessary to use a tool such as <a href=\"http://www.mapsdata.co.uk/online-file-converter/\" target=\"_blank\">maps data</a>&nbsp;to convert between the different formats.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59348242d084d5167a04f784",
+    "_layout": "right",
+    "_parentId": "593481fdd084d5167a04f783",
+    "_type": "component",
+    "body": "<p><a href=\"http://cartodb.com/\" target=\"_blank\">CartoDB</a>&nbsp;is a very popular online tool for creating geographic visualisations on maps. It has simple wizards to help you get started but also allows you to expose the code and customise your GIS queries to take complete control. CartoDB can also merge and boundary-locate geographic data without you having to write complex GIS queries yourself.</p><p>Several exercises have been developed to help you explore the features of CartoDB</p>",
+    "displayTitle": "Practical mapping with CartoDB",
+    "title": "Practical mapping with CartoDB",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Explore the exercises below",
+    "_items": [
+      {
+        "title": "Population and education in Tanzania",
+        "body": "<p>This exercise focuses on plotting population statistics for the different districts in Tanzania. This is then combined with the educational attainment of each district.</p><p>You will need the following datasets for this exercise:</p><p><strong>Tanzania district boundaries</strong></p><p>Official boundary files for Tanzania from the National Bureau for Statistics</p><p><a href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/Tanzania_regions.kml\" target=\"_blank\">Download</a>&nbsp;|&nbsp;<a href=\"http://www.nbs.go.tz/nbstz/index.php/english/statistics-by-subject/population-and-housing-census/258-2012-phc-shapefiles-level-one-and-two\" target=\"_blank\">View source</a></p><p><strong>Tanzania population data</strong></p><p>Official statistics on Tanzania from the National Bureau for Statistics</p><p><a href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/Tanzania_population.csv\" target=\"_blank\">Download</a>&nbsp;|&nbsp;<a href=\"http://www.nbs.go.tz/nbs/takwimu/references/Tanzania_in_Figures_2015.pdf\" target=\"_blank\">View source</a></p><p><strong>Tanzania education data</strong></p><p>Performance of schools with 40 or more pupils across Tanzania</p><p><a href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/BRN2015_RANKING_40_AND_MORE-PIVOT.csv\" target=\"_blank\">Download</a>&nbsp;|&nbsp;<a href=\"http://www.necta.go.tz/brn2015/\" target=\"_blank\">View source</a></p><p><a class=\"button\" href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/MappingwithcartoDBTanzania.pdf\" target=\"_blank\">Download the exercise</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Water points in Tanzania",
+        "body": "<p>This exercise focuses on plotting simple point-based data on a map. It focusses on combining many aspects to indicate the type of water supply and the quality of the water.</p><p>You will need the following datasets for this exercise:</p><p><strong>Water points in Tanzania (July 2015)</strong></p><p>Open data from the Tanzania Open Data portal.</p><p><a href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/allwaterpointsjuly2015-cleaned.csv\" target=\"_blank\">Download</a>&nbsp;|&nbsp;<a href=\"http://opendata.go.tz/dataset/water-dashboard/resource/58edfa63-b329-45b5-b17f-27603420cd10\" target=\"_blank\">View source</a></p><p><strong>Icon set for map</strong></p><p>A small icon set to use with the map.</p><p><a href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/map_icons.zip\" target=\"_blank\">Download</a></p><p><a class=\"button\" href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/MappingwithcartoDBTanzaniawateredition.pdf\" target=\"_blank\">Download the exercise</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59348248d084d5167a04f785",
+    "_layout": "left",
+    "_parentId": "593481fdd084d5167a04f783",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e19a7fc34ebccbd844cb468a8a3c4a3252c153ed.png",
+      "small": "course/en/assets/e19a7fc34ebccbd844cb468a8a3c4a3252c153ed.png",
+      "attribution": "<a href=\"http://opendata.go.tz/en/indicator/2cb7fed8-4af4-11e5-a53c-0e9d821ea90d\" target=\"_blank\">Tanzania government open data portal</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59301f3bd084d5167a04f2a6",
+    "_layout": "left",
+    "_parentId": "59301f34d084d5167a04f2a5",
+    "_type": "component",
+    "body": "<p>You may find something interesting in the data when you are cleaning, analysing and interrogating your dataset. If this finding is significant, the next stage will be to communicate this to others. Data visualisations help communicate insight found in data in a quick and easy way.</p><p>This module explores:</p><ul><li>Introduction to data visualisation</li><li>Why visualise data?</li><li>Data visualisations and their use</li><li dir=\"ltr\">Appropriate visualisation for data</li></ul>",
+    "displayTitle": "Data visualisation techniques",
+    "title": "Data visualisation techniques",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59359a22d084d5167a04f7ac",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "59359a10d084d5167a04f7aa",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic"
+  },
+  {
+    "_id": "59356eb5d084d5167a04f7a9",
+    "_layout": "right",
+    "_parentId": "59356ea2d084d5167a04f7a7",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/50acadab73c9617dbb20e58de45e13c61bd65dd7.png",
+      "small": "course/en/assets/50acadab73c9617dbb20e58de45e13c61bd65dd7.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59359c5ed084d5167a04f7b5",
+    "_layout": "left",
+    "_parentId": "59359c43d084d5167a04f7b4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " Are you ready to map open data?",
+    "title": " Are you ready to map open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59359ca4d084d5167a04f7ba",
+    "_layout": "right",
+    "_parentId": "59359c7ad084d5167a04f7b7",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/add96cef0a182672fdf9c372eb2cdd4c81d87f6f.png",
+      "small": "course/en/assets/add96cef0a182672fdf9c372eb2cdd4c81d87f6f.png",
+      "attribution": "<a href=\"http://wiki.openstreetmap.org\" target=\"_blank\">OpenStreetMap</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59359f22d084d5167a04f7bf",
+    "_layout": "left",
+    "_parentId": "59359f22d084d5167a04f7be",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/280023e2795af132b2cb94521e4c1ce546174f30.png",
+      "small": "course/en/assets/280023e2795af132b2cb94521e4c1ce546174f30.png",
+      "attribution": "<a href=\"https://en.wikipedia.org/wiki/File:Tanzania_regions.svg\" target=\"_blank\">Gregor Aisch</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "59359f22d084d5167a04f7c2",
+    "_layout": "right",
+    "_parentId": "59359f22d084d5167a04f7be",
+    "_type": "component",
+    "body": "<p><strong>What kind of data would you represent with polygons?</strong></p>",
+    "displayTitle": "How to describe something on a map",
+    "title": "How to describe something on a map",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Complete shapes, such as regions or buildings",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Street centres, rivers or ferry routes",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Exact coordinates of places of interest",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Polygons are complete shapes that represent a feature such as regions&nbsp;or buildings. They can also be used to represent land-use or even soil type.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Polygons are complete shapes that represent a feature such as regions&nbsp;or buildings. They can also be used to represent land-use or even soil type.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59359ff3d084d5167a04f7c5",
+    "_layout": "right",
+    "_parentId": "59359ff2d084d5167a04f7c4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/28d509ca037dda8db7ad013059903f4f33da1bd2.jpg",
+      "small": "course/en/assets/28d509ca037dda8db7ad013059903f4f33da1bd2.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-53095825.html\" target=\"_blank\">Mikael Damkier</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59359ff3d084d5167a04f7c8",
+    "_layout": "left",
+    "_parentId": "59359ff2d084d5167a04f7c4",
+    "_type": "component",
+    "body": "<p><strong>When mapping location data, you should be aware that...</strong></p>",
+    "displayTitle": "Formats and standards",
+    "title": "Formats and standards",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "there are many different standards for describing location",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "you can ensure maximum media coverage",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "all mapping data is standardised and ready to use",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Locations are typically given with&nbsp;two X-Y coordinates on a map&nbsp;but there are different formats.</p><p>You will have to be careful when processing and combining&nbsp;mapping data to ensure that all data is using the same coordinates system.</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Locations are typically given with&nbsp;two X-Y coordinates on a map, but there are different formats.</p><p>You will have to be careful when processing and combining&nbsp;mapping data to ensure that all data is using the same coordinates system.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59359ca2d084d5167a04f7b9",
+    "_layout": "left",
+    "_parentId": "59359c7ad084d5167a04f7b7",
+    "_type": "component",
+    "body": "<p>What is the benefit of mapping data openly?</p>",
+    "displayTitle": "Benefits of open mapping",
+    "title": "Benefits of open mapping",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Only your organisation gets the value from the data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Anyone can innovate with your data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Google maps will benefit from your data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>By mapping your data openly, you enable anyone to innovate with it.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>By mapping your data openly, you enable anyone to innovate with it.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59359c60d084d5167a04f7b6",
+    "_layout": "right",
+    "_parentId": "59359c43d084d5167a04f7b4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59347f3ad084d5167a04f768",
+    "_layout": "right",
+    "_parentId": "59347f04d084d5167a04f766",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/28d509ca037dda8db7ad013059903f4f33da1bd2.jpg",
+      "small": "course/en/assets/28d509ca037dda8db7ad013059903f4f33da1bd2.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-53095825.html\" target=\"_blank\">Mikael Damkier</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5935a4b8d084d5167a04f7d7",
+    "_layout": "left",
+    "_parentId": "5935a4a3d084d5167a04f7d6",
+    "_type": "component",
+    "body": "<p>This module explores digital maps and&nbsp;how open data can enhance maps; how to use maps in&nbsp;projects; and how to visualise and explore data with them.&nbsp;</p><p>In this module, we have explored the benefits of open mapping,&nbsp;how to describe something on a map and common formats and structures.</p>",
+    "displayTitle": "Mapping open data",
+    "title": "Mapping open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5935a4bad084d5167a04f7d8",
+    "_layout": "right",
+    "_parentId": "5935a4a3d084d5167a04f7d6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-one",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7120bb7ad02055a11589656852c821cae30bf616.png",
+      "small": "course/en/assets/7120bb7ad02055a11589656852c821cae30bf616.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "59356eb2d084d5167a04f7a8",
+    "_layout": "left",
+    "_parentId": "59356ea2d084d5167a04f7a7",
+    "_type": "component",
+    "body": "<p>What is one reason why we visualise data?</p>",
+    "displayTitle": "Why visualise data?",
+    "title": "Why visualise data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "To tell an engaging story",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "To impress your audience",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "To fundraise",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>A good data visualisation can help&nbsp;to tell an engaging story. This can be a very effective way to entertain and directly educate users.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>A good data visualisation can help&nbsp;to tell an engaging story. This can be a very effective way to entertain and directly educate users.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59359a38d084d5167a04f7b0",
+    "_layout": "right",
+    "_parentId": "59359a38d084d5167a04f7ae",
+    "_type": "component",
+    "body": "<p>Which of the following charts best shows the distribution of a dataset?</p>",
+    "displayTitle": "What chart shows the distribution of data?",
+    "title": "What chart shows the distribution of data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Pie chart",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Historgram",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Line chart",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!&nbsp;</strong></p><p>A histogram clearly shows&nbsp;distribution (or shape) of the data along with clearly showing the locations of the median and mode averages.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>A histogram clearly shows&nbsp;distribution (or shape) of the data along with clearly showing the locations of the median and mode averages.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5935a93fd084d5167a04f7e1",
+    "_layout": "left",
+    "_parentId": "5935a93fd084d5167a04f7dd",
+    "_type": "component",
+    "body": "<p><strong>Why do you need to consider your audience before you start creating your visualisation?</strong></p>",
+    "displayTitle": "Before you start",
+    "title": "Before you start",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Your audience may have a set way of engaging with your data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "You shouldn't, your audience is irrelevant",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Your audience is your biggest critic",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Your audience may already have a set way of engaging with data that you cannot change. For example, if your audience is comfortable reading long reports then a visualisation may not be the best solution.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Your audience may already have a set way of engaging with data that you cannot change. For example, if your audience is comfortable reading long reports then a visualisation may not be the best solution.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59359a38d084d5167a04f7af",
+    "_layout": "left",
+    "_parentId": "59359a38d084d5167a04f7ae",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/31add8e4b3529b2c6fe0eb2468e4a9a8a7521774.jpg",
+      "small": "course/en/assets/31add8e4b3529b2c6fe0eb2468e4a9a8a7521774.jpg",
+      "attribution": "<a href=\"http://www.usablestats.com/lessons/normal\" target=\"_blank\">Usable stats</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "5935a93fd084d5167a04f7de",
+    "_layout": "right",
+    "_parentId": "5935a93fd084d5167a04f7dd",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ac8ed9a5107f9fa9e722fd5917db7325e48cbe49.jpg",
+      "small": "course/en/assets/ac8ed9a5107f9fa9e722fd5917db7325e48cbe49.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/global-communication-concept-102447179\" target=\"_blank\">hoperan</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5935aaf5d084d5167a04f7e9",
+    "_layout": "right",
+    "_parentId": "5935aadcd084d5167a04f7e7",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-one",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7120bb7ad02055a11589656852c821cae30bf616.png",
+      "small": "course/en/assets/7120bb7ad02055a11589656852c821cae30bf616.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "5935aaf2d084d5167a04f7e8",
+    "_layout": "left",
+    "_parentId": "5935aadcd084d5167a04f7e7",
+    "_type": "component",
+    "body": "<p>You may find something interesting&nbsp;when you are cleaning, analysing and interrogating your dataset. If this is significant, the next stage will be to communicate it to others. Data visualisations help to communicate insight found in data in a quick and easy way.&nbsp;</p>",
+    "displayTitle": " Data visualisation techniques",
+    "title": " Data visualisation techniques",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  }
+]
