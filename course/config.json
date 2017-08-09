@@ -19,29 +19,33 @@
   "_accessibility": {
     "_isTextProcessorEnabled": false,
     "_shouldSupportLegacyBrowsers": true,
+    "_isDisabledOnTouchDevices": false,
     "_isEnabled": false
   },
   "__v": 0,
   "_tutor": {
     "_isEnabled": false
   },
+  "_licencePage": {
+    "licence": "CC-BY 4.0"
+  },
   "_aboutPage": {
     "_items": [
       {
-        "_graphic": {
-          "src": "http://accelerate.theodi.org/en/module1/adapt/css/assets/odi-logo.png",
-          "alt": "The Open Data Institute"
-        },
+        "title": "The Open Data Institute",
         "description": "<p>Expert knowledge and content development provided by the <span>Open Data Institute</span>.</p>\n",
-        "title": "The Open Data Institute"
+        "_graphic": {
+          "alt": "The Open Data Institute",
+          "src": "http://accelerate.theodi.org/en/module1/adapt/css/assets/odi-logo.png"
+        }
       },
       {
-        "_graphic": {
-          "src": "http://accelerate.theodi.org/en/module1/adapt/css/assets/adapt.png",
-          "alt": "Adapt eLearning"
-        },
+        "title": "Adapt eLearning",
         "description": "<p>Open source learning platform developed by <span>Adapt elearning</span>.</p>\n",
-        "title": "Adapt eLearning"
+        "_graphic": {
+          "alt": "Adapt eLearning",
+          "src": "http://accelerate.theodi.org/en/module1/adapt/css/assets/adapt.png"
+        }
       }
     ]
   },
@@ -49,10 +53,11 @@
     "includes": [
       "adapt-theme-dlab",
       "adapt-contrib-boxMenu",
-      "adapt-contrib-aboutPage",
-      "adapt-contrib-pageLevelProgress",
-      "adapt-contrib-tutor",
+      "adapt-odi-licence",
       "adapt-skillsFramework",
+      "adapt-contrib-tutor",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-aboutPage",
       "adapt-contrib-graphic",
       "adapt-contrib-text",
       "adapt-contrib-mcq",

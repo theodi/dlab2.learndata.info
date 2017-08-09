@@ -17,7 +17,18 @@
     "displayTitle": "Data visualisation techniques",
     "title": "Data visualisation techniques",
     "_skillsFramework": {
-      "_skills": []
+      "_skills": [
+        {
+          "outcome": "Describe a number data visualisations and their usage",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Choose an appropriate visualisation for data",
+          "credits": 5,
+          "level": "explorer"
+        }
+      ]
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -42,7 +53,23 @@
     "displayTitle": "Mapping open data",
     "title": "Mapping open data",
     "_skillsFramework": {
-      "_skills": []
+      "_skills": [
+        {
+          "outcome": "Explain the benefits of open mapping",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Select the appropriate technique to describe something on a map",
+          "credits": 5,
+          "level": "practitioner"
+        },
+        {
+          "outcome": "Create a number of different maps from open data",
+          "credits": 10,
+          "level": "practitioner"
+        }
+      ]
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
