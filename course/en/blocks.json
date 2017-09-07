@@ -78,7 +78,7 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 7,
-    "_classes": "inverted color-two",
+    "_classes": "inverted color-two section-banner",
     "body": "",
     "displayTitle": " ",
     "title": " "
@@ -90,7 +90,7 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 8,
-    "_classes": "inverted color-one",
+    "_classes": "inverted color-one section-banner",
     "body": "",
     "displayTitle": " ",
     "title": " "

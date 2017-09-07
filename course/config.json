@@ -46,6 +46,14 @@
           "alt": "Adapt eLearning",
           "src": "http://accelerate.theodi.org/en/module1/adapt/css/assets/adapt.png"
         }
+      },
+      {
+        "_graphic": {
+          "src": "adapt/css/assets/edsa-flat.png",
+          "alt": "European Data Science Academy"
+        },
+        "description": "<p>Funding for module development and implementation provided by the&nbsp;European Data Science Academy. Original content is available&nbsp;<a href=\"http://findingstories.learndata.info/#/id/57adb0cce396ef981f39e9d4\" target=\"_blank\">here</a>, used under a&nbsp;Creative Commons Attribution-ShareAlike 4.0 International Licence.</p>",
+        "title": "European Data Science Academy"
       }
     ]
   },
@@ -53,13 +61,13 @@
     "includes": [
       "adapt-theme-dlab",
       "adapt-contrib-boxMenu",
-      "adapt-odi-licence",
-      "adapt-skillsFramework",
-      "adapt-contrib-tutor",
-      "adapt-contrib-pageLevelProgress",
       "adapt-contrib-aboutPage",
-      "adapt-contrib-graphic",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-tutor",
+      "adapt-skillsFramework",
+      "adapt-odi-licence",
       "adapt-contrib-text",
+      "adapt-contrib-graphic",
       "adapt-contrib-mcq",
       "adapt-contrib-accordion",
       "adapt-contrib-media",
