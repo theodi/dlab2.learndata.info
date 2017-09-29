@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "59ce753662b21b6309d74dd0",
+    "_parentId": "59ce753662b21b6309d74dca",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "59ce753662b21b6309d74dd1",
+    "_parentId": "59ce753662b21b6309d74dcc",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "59ce753662b21b6309d74dd2",
+    "_parentId": "59ce753662b21b6309d74dcb",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "59ce753662b21b6309d74dd3",
+    "_parentId": "59ce753662b21b6309d74dce",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  }
+]
